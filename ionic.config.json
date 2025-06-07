@@ -1,0 +1,7 @@
+{
+  "name": "GymTrack",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
